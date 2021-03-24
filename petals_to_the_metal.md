@@ -22,4 +22,4 @@ Then I added more data to the training dataset by using the `tf-flower-photo-tfr
 Score increased to 0.95791.
 
 Finally, I used a 512x512 images instead of 224x224, and used a larger model, EfficientNetB6
-to get my final score of 0.96892.
+to get my final score of 0.96892. Good for 29th position on the leaderboard.
